@@ -12,10 +12,6 @@ This project demonstrates cleaning raw e-commerce data ingested via Hevo from Po
 6. Validation using snowflake_validation.sql
 
 ## Hevo Info
-- Account Team Name: <Your Hevo Account Team>
+- Account Team Name: gmail.com_162
 - Pipeline ID: <Pipeline ID>
-- Model Number: <Model Number>
 
-## Notes
-- No credentials are hardcoded
-- All tasks are recorded using Loom (link to be added)
