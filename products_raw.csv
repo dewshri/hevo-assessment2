@@ -1,0 +1,4 @@
+product_id,product_name,category,active_flag
+P01,keyboard,hardware,Y
+P02,mouse,Hardware,Y
+P03,monitor,Hardware,N

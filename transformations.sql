@@ -1,0 +1,6 @@
+-- Placeholder SQL for cleaning and transformations
+-- Deduplicate customers, standardize emails/phones
+-- Standardize country codes using country_dim
+-- Clean orders (remove duplicates, fix negative/NULL amounts)
+-- Clean products (capitalize names, handle inactive products)
+-- Join tables into final analytics-ready dataset

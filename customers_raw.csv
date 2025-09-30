@@ -1,0 +1,4 @@
+customer_id,email,phone,country_code,updated_at,created_at
+101,john@example.com,111-222-3333,US,2025-07-01 10:15:00,2025-01-01 08:00:00
+101,john.d@example.com,(111)2223333,usa,2025-07-03 14:25:00,2025-01-01 08:00:00
+102,alice@example.com,,UnitedStates,2025-07-01 09:10:00,
